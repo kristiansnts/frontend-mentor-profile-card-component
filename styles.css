@@ -51,9 +51,10 @@ body {
 }
 
 /* Profil Information */
-.profile-information h3 {
+.profile-information h3,h1 {
     font-weight: var(--bold-weight);
     color: var(--bold-font-color);
+    font-size: 1em;
 }
 
 .profile-information span,h4,p {
